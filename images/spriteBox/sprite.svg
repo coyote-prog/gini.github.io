@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol viewBox="0 0 45 45" id="arrow-left" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#a)"><path d="M22.5 44.25C10.488 44.25.75 34.512.75 22.5S10.488.75 22.5.75s21.75 9.738 21.75 21.75-9.738 21.75-21.75 21.75"/><path d="M24.686 15.942 17.4 22.5l7.286 6.557"/></g>
+</symbol>
+<symbol viewBox="0 0 45 45" id="arrow-right" xmlns="http://www.w3.org/2000/svg"><g stroke-width="1.5" clip-path="url(#a)"><path d="M22.5 44.25c12.012 0 21.75-9.738 21.75-21.75S34.512.75 22.5.75.75 10.488.75 22.5s9.738 21.75 21.75 21.75"/><path d="M20.314 15.942 27.6 22.5l-7.286 6.557"/></g>
+</symbol>
+<symbol viewBox="0 0 29 29" id="arrow-right-more" xmlns="http://www.w3.org/2000/svg"><g stroke-width="1.5" clip-path="url(#a)"><path d="M14.5 28.517c7.741 0 14.017-6.276 14.017-14.017S22.24.483 14.5.483.483 6.76.483 14.5 6.76 28.517 14.5 28.517"/><path d="m13.092 10.274 4.695 4.226-4.695 4.225"/></g>
+</symbol>
+<symbol viewBox="0 0 18 18" id="arrow-rigt-read-more" xmlns="http://www.w3.org/2000/svg"><g stroke-width="1.5" clip-path="url(#a)"><path d="M9 17.413A8.413 8.413 0 1 0 9 .587a8.413 8.413 0 0 0 0 16.826"/><path d="M8.126 6.377 11.04 9l-2.914 2.623"/></g></symbol><symbol viewBox="0 0 23 23" id="arrow-try-for-free" xmlns="http://www.w3.org/2000/svg"><g stroke-width="1.5" class="eicon-lines-color" clip-path="url(#a)"><path d="M11.5 22.25c5.937 0 10.75-4.813 10.75-10.75S17.437.75 11.5.75.75 5.563.75 11.5 5.563 22.25 11.5 22.25"/><path d="m10.383 8.148 3.724 3.352-3.724 3.351"/></g>
+</symbol>
+</svg>
